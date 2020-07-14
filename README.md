@@ -1,4 +1,6 @@
-### Hi there 👋
+# Erik Rodríguez 
+![alt text](https://github.com/ErikRodrigu3z/ErikRodrigu3z/blob/master/Csharp_Logo.png)
+
 
 <!--
 **ErikRodrigu3z/ErikRodrigu3z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
