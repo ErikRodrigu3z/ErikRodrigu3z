@@ -1,5 +1,6 @@
 ![alt text](https://github.com/ErikRodrigu3z/ErikRodrigu3z/blob/master/backGround.jpg)
 
+Thanks for visiting my github, I'm currently working as a Software Developer.
 
 <!--
 **ErikRodrigu3z/ErikRodrigu3z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
