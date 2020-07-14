@@ -1,4 +1,3 @@
-# Erik Rodríguez 
 ![alt text](https://github.com/ErikRodrigu3z/ErikRodrigu3z/blob/master/backGround.jpg)
 
 
